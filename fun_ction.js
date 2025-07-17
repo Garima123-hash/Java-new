@@ -8,7 +8,7 @@
 
 //for objects
 function getdog(name,breed,age){
-    return{name,breed,age
+    return{name,breed,age,
         eat(){
             console.log(this.name+"Pedigery")
         }
